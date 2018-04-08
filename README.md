@@ -61,3 +61,4 @@ GitHub:
 * [Yeh James](https://medium.com/@yehjames)
 * [Deep Learning by  Google](https://www.udacity.com/course/deep-learning--ud730?utm_campaign=chrome_series_machinelearning_063016&utm_source=gdev&utm_medium=yt-desc)
 * [Google Developers](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw?sub_confirmation=1)
+
