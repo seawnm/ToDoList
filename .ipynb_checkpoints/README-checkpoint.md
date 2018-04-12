@@ -8,6 +8,7 @@
 ---
 ## Google
 * [codelabs](https://codelabs.developers.google.com/)
+* [Google Research Blog](https://research.googleblog.com/)
 
 ---
 ## Machine Learning
@@ -15,7 +16,13 @@
 ### Tensorflow
 
 #### Google Tensorflow
+* [Eager Execution: An imperative, define-by-run interface to TensorFlow](https://research.googleblog.com/2017/10/eager-execution-imperative-define-by.html)
+
 * [Google Tensorflow](https://www.tensorflow.org/get_started/)
+
+* [TensorBoard: Visualizing Learning](https://www.tensorflow.org/programmers_guide/summaries_and_tensorboard)
+
+* [tf.contrib.data.SqlDataset](https://www.tensorflow.org/api_docs/python/tf/contrib/data/SqlDataset)
 
 * [Large-scale Linear Models with TensorFlow](https://www.tensorflow.org/tutorials/linear#large-scale-linear-models-with-tensorflow?utm_campaign=chrome_series_machinelearning_081616&utm_source=gdev&utm_medium=yt-desc)
 
@@ -25,10 +32,19 @@
 
 GitHub:
 * [Tensorflow](https://github.com/tensorflow/tensorflow)
+
 * [Models and examples built with TensorFlow](https://github.com/tensorflow/models)
 
+* [TensorFlow Probability](https://github.com/tensorflow/probability)
+
+* [TensorFlow Hub](https://github.com/tensorflow/hub/blob/master/docs/index.md)
+
+* [TensorFlow Workshops](https://github.com/tensorflow/workshops)
+
 #### Other Tensorflow
+
 * [TensorFlow Tutorial For Beginners](https://www.datacamp.com/community/tutorials/tensorflow-tutorial)
+
 ---
 ### Keras
 * [Keras中文文檔](http://keras-cn.readthedocs.io/en/latest/)
@@ -39,6 +55,10 @@ GitHub:
 ### Scikit-Learn
 * [Python Machine Learning: Scikit-Learn Tutorial](https://www.datacamp.com/community/tutorials/machine-learning-python)
 
+
+---
+### Statsmodels
+* [Statsmodels：模块简介](https://jingyan.baidu.com/article/3d69c5518fd2e2f0cf02d73a.html)
 
 ---
 ### Visualization
