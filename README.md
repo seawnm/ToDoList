@@ -6,6 +6,16 @@
 * [Medium](https://medium.com/)
 
 ---
+## Tools:
+* [Colaboratory](https://colab.research.google.com)
+
+* [Google Datalab for Machine Learning Education](https://github.com/google/eng-edu/blob/master/ml/cc/README.md#with-docker)
+
+* [CLOUD DATALAB](https://cloud.google.com/datalab/)
+
+* [CLOUD MACHINE LEARNING ENGINE](https://cloud.google.com/ml-engine/)
+
+---
 ## Google
 * [codelabs](https://codelabs.developers.google.com/)
 * [Google Research Blog](https://research.googleblog.com/)
@@ -30,6 +40,12 @@
 
  [Josh Gordon's Github](https://github.com/random-forests)
 
+* [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
+
+    * [Prerequisites and Prework](https://developers.google.com/machine-learning/crash-course/prereqs-and-prework)
+    
+
+
 GitHub:
 * [Tensorflow](https://github.com/tensorflow/tensorflow)
 
@@ -44,6 +60,8 @@ GitHub:
 #### Other Tensorflow
 
 * [TensorFlow Tutorial For Beginners](https://www.datacamp.com/community/tutorials/tensorflow-tutorial)
+
+* [TensorFlow 101 (Really Awesome Intro Into TensorFlow)](https://www.youtube.com/watch?v=oxf3o8IbCk4)
 
 ---
 ### Keras
@@ -86,3 +104,4 @@ GitHub:
 * [detection machine learning python](https://www.google.com.tw/search?rlz=1C1JPGB_enTW654TW654&ei=2VCXWrLqOcTh0gTPgY7QDg&q=detection+machine+learning+python&oq=detection+machine+learning+python&gs_l=psy-ab.3..0i22i30k1l3.15448542.15455495.0.15455879.11.9.2.0.0.0.453.1938.2-2j3j1.6.0....0...1c.1j4.64.psy-ab..3.8.1953...0j0i30k1j0i5i30k1j0i8i13i30k1.0.GlrJT8v84dI)
 * [自創數據集，用TensorFlow預測股票教程 !（附代碼）](https://read01.com/8zoazxR.html#.WswMZPl96L3)
 * [PCA-Based Anomaly Detection](https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/pca-based-anomaly-detection)
+* [Leetcode](https://leetcode.com/)
