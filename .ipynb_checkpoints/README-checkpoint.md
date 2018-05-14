@@ -26,9 +26,11 @@
 ### Tensorflow
 
 #### Google Tensorflow
+* [Google Tensorflow](https://www.tensorflow.org/get_started/)
+    * [Get Started with Eager Execution](https://www.tensorflow.org/get_started/eager)
+
 * [Eager Execution: An imperative, define-by-run interface to TensorFlow](https://research.googleblog.com/2017/10/eager-execution-imperative-define-by.html)
 
-* [Google Tensorflow](https://www.tensorflow.org/get_started/)
 
 * [TensorBoard: Visualizing Learning](https://www.tensorflow.org/programmers_guide/summaries_and_tensorboard)
 
@@ -41,9 +43,10 @@
  [Josh Gordon's Github](https://github.com/random-forests)
 
 * [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
+    * [Framing]()
 
-    * [Prerequisites and Prework](https://developers.google.com/machine-learning/crash-course/prereqs-and-prework)
-    
+* [Prerequisites and Prework](https://developers.google.com/machine-learning/crash-course/prereqs-and-prework)
+  * [Low-Level TensorFlow Basics](./Low-Level TensorFlow Basics.ipynb) - Low-Level TensorFlow Basics.ipynb
 
 
 GitHub:
@@ -63,6 +66,9 @@ GitHub:
 
 * [TensorFlow 101 (Really Awesome Intro Into TensorFlow)](https://www.youtube.com/watch?v=oxf3o8IbCk4)
 
+---
+### Detection
+* [Skilearn-2.11. 新奇和异常值检测](http://sklearn.apachecn.org/cn/0.19.0/modules/outlier_detection.html)
 ---
 ### Keras
 * [Keras中文文檔](http://keras-cn.readthedocs.io/en/latest/)
@@ -105,3 +111,5 @@ GitHub:
 * [自創數據集，用TensorFlow預測股票教程 !（附代碼）](https://read01.com/8zoazxR.html#.WswMZPl96L3)
 * [PCA-Based Anomaly Detection](https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/pca-based-anomaly-detection)
 * [Leetcode](https://leetcode.com/)
+* [data-science-learning](https://github.com/5agado/data-science-learning)
+* [斯坦福机器学习笔记](https://www.gitbook.com/book/yoyoyohamapi/mit-ml)
