@@ -79,6 +79,9 @@ GitHub:
 ### Scikit-Learn
 * [Python Machine Learning: Scikit-Learn Tutorial](https://www.datacamp.com/community/tutorials/machine-learning-python)
 
+---
+### Unsupervised-learning
+* [Unsupervised Learning with Python](https://towardsdatascience.com/unsupervised-learning-with-python-173c51dc7f03)
 
 ---
 ### Statsmodels
@@ -94,7 +97,8 @@ GitHub:
 ---
 ### Demo
 * [Embedding Projector](http://projector.tensorflow.org/?utm_campaign=ai_series_embeddingprojector_103017&utm_source=gdev&utm_medium=yt-desc)
-
+* [detection machine learning python](https://www.google.com.tw/search?rlz=1C1JPGB_enTW654TW654&ei=2VCXWrLqOcTh0gTPgY7QDg&q=detection+machine+learning+python&oq=detection+machine+learning+python&gs_l=psy-ab.3..0i22i30k1l3.15448542.15455495.0.15455879.11.9.2.0.0.0.453.1938.2-2j3j1.6.0....0...1c.1j4.64.psy-ab..3.8.1953...0j0i30k1j0i5i30k1j0i8i13i30k1.0.GlrJT8v84dI)
+* [PCA-Based Anomaly Detection](https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/pca-based-anomaly-detection)
 
 ---
 ### Others
@@ -103,13 +107,13 @@ GitHub:
 * [Enterprise Deep Learning with TensorFlow](https://open.sap.com/courses/ml2?locale=cn)
 * [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html)
 * [Yeh James](https://medium.com/@yehjames)
-* [Deep Learning by  Google](https://www.udacity.com/course/deep-learning--ud730?utm_campaign=chrome_series_machinelearning_063016&utm_source=gdev&utm_medium=yt-desc)
+* [Deep Learning by Google](https://www.udacity.com/course/deep-learning--ud730?utm_campaign=chrome_series_machinelearning_063016&utm_source=gdev&utm_medium=yt-desc)
 * [Google Developers](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw?sub_confirmation=1)
 * [Deep Residual Networks（ResNet） 简介](https://blog.csdn.net/sxf1061926959/article/details/54973588)
 * [Deep Residual Network 深度残差网络](https://zhuanlan.zhihu.com/p/22447440)
-* [detection machine learning python](https://www.google.com.tw/search?rlz=1C1JPGB_enTW654TW654&ei=2VCXWrLqOcTh0gTPgY7QDg&q=detection+machine+learning+python&oq=detection+machine+learning+python&gs_l=psy-ab.3..0i22i30k1l3.15448542.15455495.0.15455879.11.9.2.0.0.0.453.1938.2-2j3j1.6.0....0...1c.1j4.64.psy-ab..3.8.1953...0j0i30k1j0i5i30k1j0i8i13i30k1.0.GlrJT8v84dI)
 * [自創數據集，用TensorFlow預測股票教程 !（附代碼）](https://read01.com/8zoazxR.html#.WswMZPl96L3)
-* [PCA-Based Anomaly Detection](https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/pca-based-anomaly-detection)
 * [Leetcode](https://leetcode.com/)
 * [data-science-learning](https://github.com/5agado/data-science-learning)
 * [斯坦福机器学习笔记](https://www.gitbook.com/book/yoyoyohamapi/mit-ml)
+* [data-science-interview-guide](https://towardsdatascience.com/data-science-interview-guide-4ee9f5dc778)
+* [Hyperparameter Optimization with Keras](https://towardsdatascience.com/hyperparameter-optimization-with-keras-b82e6364ca53)
